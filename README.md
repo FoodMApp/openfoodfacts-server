@@ -2,6 +2,9 @@
 
 # Open Food Facts - Product Opener (Web Server)
 
+
+
+Hello There!
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 [![Build Status](https://travis-ci.org/openfoodfacts/openfoodfacts-server.svg?branch=master)](https://travis-ci.org/openfoodfacts/openfoodfacts-server)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://translate.openfoodfacts.org/)
@@ -31,7 +34,7 @@ Data about food is of public interest and has to be open. The complete database 
 * <https://world.openfoodfacts.org>
 
 ## Priorities
-* Please list priority issues here 
+* Please list priority issues here
 * Please add roadmaps here
 * [P1 problems](https://github.com/openfoodfacts/openfoodfacts-server/labels/P1)
 * [P1 candidates](https://github.com/openfoodfacts/openfoodfacts-server/labels/P1%20candidate)
@@ -42,7 +45,7 @@ Data about food is of public interest and has to be open. The complete database 
 
 * Feel free to join us on Slack at <https://openfoodfacts.slack.com/> in the channels: #api #productopener #dev
 * If you're looking for the API, look at <https://wiki.openfoodfacts.org/API>
-* Summary of set up: 
+* Summary of set up:
    * [45 min Quick Start Guide w/ Docker](installation/dev-environment-quick-start-guide.md)
    * [Product Opener Guide](installation/product-opener.md)
 * Configuration
